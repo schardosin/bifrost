@@ -174,7 +174,8 @@
                 "elevenlabs",
                 "huggingface",
                 "nebius",
-                "xai"
+                "xai",
+                "sapaicore"
               ]
             }
           },
@@ -384,7 +385,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -517,7 +519,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -599,7 +602,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -1804,7 +1808,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -2511,7 +2516,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -2641,7 +2647,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -2723,7 +2730,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -3433,7 +3441,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -4081,7 +4090,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -4211,7 +4221,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -4293,7 +4304,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -5849,7 +5861,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -6851,7 +6864,8 @@
                                 "elevenlabs",
                                 "huggingface",
                                 "nebius",
-                                "xai"
+                                "xai",
+                                "sapaicore"
                               ]
                             },
                             "model_requested": {
@@ -7576,7 +7590,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -7706,7 +7721,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -7788,7 +7804,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -8043,7 +8060,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -8173,7 +8191,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -8255,7 +8274,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -8506,7 +8526,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -8628,7 +8649,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -8758,7 +8780,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -8840,7 +8863,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -9084,7 +9108,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -9249,7 +9274,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -9379,7 +9405,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -9461,7 +9488,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -9650,7 +9678,8 @@
                                 "elevenlabs",
                                 "huggingface",
                                 "nebius",
-                                "xai"
+                                "xai",
+                                "sapaicore"
                               ]
                             },
                             "model": {
@@ -9820,7 +9849,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -10063,7 +10093,8 @@
                                 "elevenlabs",
                                 "huggingface",
                                 "nebius",
-                                "xai"
+                                "xai",
+                                "sapaicore"
                               ]
                             },
                             "model_requested": {
@@ -10107,7 +10138,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -10237,7 +10269,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -10319,7 +10352,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -10514,7 +10548,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model": {
@@ -10682,7 +10717,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -10915,7 +10951,8 @@
                                 "elevenlabs",
                                 "huggingface",
                                 "nebius",
-                                "xai"
+                                "xai",
+                                "sapaicore"
                               ]
                             },
                             "model_requested": {
@@ -10959,7 +10996,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -11089,7 +11127,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -11171,7 +11210,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -11284,7 +11324,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model": {
@@ -11452,7 +11493,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -11582,7 +11624,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -11664,7 +11707,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -12268,7 +12312,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -12398,7 +12443,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -12480,7 +12526,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -12700,7 +12747,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -12830,7 +12878,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -12912,7 +12961,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -12966,7 +13016,8 @@
                 "elevenlabs",
                 "huggingface",
                 "nebius",
-                "xai"
+                "xai",
+                "sapaicore"
               ]
             }
           },
@@ -13193,7 +13244,8 @@
                                   "elevenlabs",
                                   "huggingface",
                                   "nebius",
-                                  "xai"
+                                  "xai",
+                                  "sapaicore"
                                 ]
                               },
                               "model_requested": {
@@ -13298,7 +13350,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -13428,7 +13481,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -13510,7 +13564,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -13575,7 +13630,8 @@
                 "elevenlabs",
                 "huggingface",
                 "nebius",
-                "xai"
+                "xai",
+                "sapaicore"
               ]
             }
           }
@@ -13769,7 +13825,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -13899,7 +13956,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -13981,7 +14039,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -14046,7 +14105,8 @@
                 "elevenlabs",
                 "huggingface",
                 "nebius",
-                "xai"
+                "xai",
+                "sapaicore"
               ]
             }
           }
@@ -14144,7 +14204,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -14274,7 +14335,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -14356,7 +14418,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -14421,7 +14484,8 @@
                 "elevenlabs",
                 "huggingface",
                 "nebius",
-                "xai"
+                "xai",
+                "sapaicore"
               ]
             }
           }
@@ -14521,7 +14585,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -14651,7 +14716,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -14733,7 +14799,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -14788,7 +14855,8 @@
                 "elevenlabs",
                 "huggingface",
                 "nebius",
-                "xai"
+                "xai",
+                "sapaicore"
               ]
             }
           }
@@ -14844,7 +14912,8 @@
                       "elevenlabs",
                       "huggingface",
                       "nebius",
-                      "xai"
+                      "xai",
+                      "sapaicore"
                     ]
                   }
                 }
@@ -14944,7 +15013,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -15074,7 +15144,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -15156,7 +15227,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -15210,7 +15282,8 @@
                 "elevenlabs",
                 "huggingface",
                 "nebius",
-                "xai"
+                "xai",
+                "sapaicore"
               ]
             }
           },
@@ -15365,7 +15438,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -15495,7 +15569,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -15577,7 +15652,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -15642,7 +15718,8 @@
                 "elevenlabs",
                 "huggingface",
                 "nebius",
-                "xai"
+                "xai",
+                "sapaicore"
               ]
             }
           }
@@ -15739,7 +15816,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -15869,7 +15947,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -15951,7 +16030,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -16014,7 +16094,8 @@
                 "elevenlabs",
                 "huggingface",
                 "nebius",
-                "xai"
+                "xai",
+                "sapaicore"
               ]
             }
           }
@@ -16067,7 +16148,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -16197,7 +16279,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -16279,7 +16362,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -16344,7 +16428,8 @@
                 "elevenlabs",
                 "huggingface",
                 "nebius",
-                "xai"
+                "xai",
+                "sapaicore"
               ]
             }
           }
@@ -16427,7 +16512,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -16509,7 +16595,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -16570,7 +16657,8 @@
                       "elevenlabs",
                       "huggingface",
                       "nebius",
-                      "xai"
+                      "xai",
+                      "sapaicore"
                     ]
                   },
                   "name": {
@@ -16707,7 +16795,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -16837,7 +16926,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -16919,7 +17009,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -16973,7 +17064,8 @@
                 "elevenlabs",
                 "huggingface",
                 "nebius",
-                "xai"
+                "xai",
+                "sapaicore"
               ]
             }
           },
@@ -17128,7 +17220,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -17258,7 +17351,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -17340,7 +17434,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -17405,7 +17500,8 @@
                 "elevenlabs",
                 "huggingface",
                 "nebius",
-                "xai"
+                "xai",
+                "sapaicore"
               ]
             }
           }
@@ -17503,7 +17599,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -17633,7 +17730,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -17715,7 +17813,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -17778,7 +17877,8 @@
                 "elevenlabs",
                 "huggingface",
                 "nebius",
-                "xai"
+                "xai",
+                "sapaicore"
               ]
             }
           }
@@ -17834,7 +17934,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -17964,7 +18065,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -18046,7 +18148,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -18111,7 +18214,8 @@
                 "elevenlabs",
                 "huggingface",
                 "nebius",
-                "xai"
+                "xai",
+                "sapaicore"
               ]
             }
           }
@@ -18227,7 +18331,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -18357,7 +18462,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -18439,7 +18545,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -18502,7 +18609,8 @@
                 "elevenlabs",
                 "huggingface",
                 "nebius",
-                "xai"
+                "xai",
+                "sapaicore"
               ]
             }
           },
@@ -18633,7 +18741,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -18763,7 +18872,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -18845,7 +18955,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -18919,7 +19030,8 @@
                 "elevenlabs",
                 "huggingface",
                 "nebius",
-                "xai"
+                "xai",
+                "sapaicore"
               ]
             }
           }
@@ -18994,7 +19106,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -19124,7 +19237,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -19206,7 +19320,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -19278,7 +19393,8 @@
                 "elevenlabs",
                 "huggingface",
                 "nebius",
-                "xai"
+                "xai",
+                "sapaicore"
               ]
             }
           }
@@ -19335,7 +19451,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -19465,7 +19582,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -19547,7 +19665,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -19621,7 +19740,8 @@
                 "elevenlabs",
                 "huggingface",
                 "nebius",
-                "xai"
+                "xai",
+                "sapaicore"
               ]
             }
           }
@@ -19704,7 +19824,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -19786,7 +19907,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -20932,7 +21054,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -21639,7 +21762,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -21769,7 +21893,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -21851,7 +21976,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -23017,7 +23143,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -23724,7 +23851,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -23854,7 +23982,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -23936,7 +24065,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -24661,7 +24791,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -25309,7 +25440,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -25439,7 +25571,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -25521,7 +25654,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -26264,7 +26398,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -26912,7 +27047,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -27042,7 +27178,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -27124,7 +27261,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -28654,7 +28792,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -29656,7 +29795,8 @@
                                 "elevenlabs",
                                 "huggingface",
                                 "nebius",
-                                "xai"
+                                "xai",
+                                "sapaicore"
                               ]
                             },
                             "model_requested": {
@@ -30381,7 +30521,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -30511,7 +30652,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -30593,7 +30735,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -32141,7 +32284,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -33143,7 +33287,8 @@
                                 "elevenlabs",
                                 "huggingface",
                                 "nebius",
-                                "xai"
+                                "xai",
+                                "sapaicore"
                               ]
                             },
                             "model_requested": {
@@ -33868,7 +34013,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -33998,7 +34144,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -34080,7 +34227,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -34867,7 +35015,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -34997,7 +35146,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -35079,7 +35229,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -35324,7 +35475,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -35454,7 +35606,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -35536,7 +35689,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -35799,7 +35953,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -35929,7 +36084,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -36011,7 +36167,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -36192,7 +36349,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -36322,7 +36480,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -36404,7 +36563,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -36603,7 +36763,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -36733,7 +36894,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -36815,7 +36977,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -37074,7 +37237,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -37239,7 +37403,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -37369,7 +37534,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -37451,7 +37617,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -37728,7 +37895,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -37893,7 +38061,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -38023,7 +38192,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -38105,7 +38275,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -38246,7 +38417,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -38328,7 +38500,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -38487,7 +38660,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -38569,7 +38743,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -38789,7 +38964,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -38919,7 +39095,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -39001,7 +39178,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -39250,7 +39428,8 @@
                                   "elevenlabs",
                                   "huggingface",
                                   "nebius",
-                                  "xai"
+                                  "xai",
+                                  "sapaicore"
                                 ]
                               },
                               "model_requested": {
@@ -39355,7 +39534,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -39485,7 +39665,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -39567,7 +39748,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -39802,7 +39984,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -39932,7 +40115,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -40014,7 +40198,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -40153,7 +40338,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -40283,7 +40469,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -40365,7 +40552,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -40741,7 +40929,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -40823,7 +41012,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -41219,7 +41409,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -41301,7 +41492,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -41502,7 +41694,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -41632,7 +41825,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -41714,7 +41908,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -41887,7 +42082,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -42017,7 +42213,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -42099,7 +42296,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -42237,7 +42435,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -42367,7 +42566,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -42449,7 +42649,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -42541,7 +42742,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -42671,7 +42873,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -42753,7 +42956,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -42877,7 +43081,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -42959,7 +43164,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -43020,7 +43226,8 @@
                       "elevenlabs",
                       "huggingface",
                       "nebius",
-                      "xai"
+                      "xai",
+                      "sapaicore"
                     ]
                   },
                   "name": {
@@ -43157,7 +43364,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -43287,7 +43495,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -43369,7 +43578,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -43551,7 +43761,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -43681,7 +43892,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -43763,7 +43975,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -43902,7 +44115,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -44032,7 +44246,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -44114,7 +44329,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -44209,7 +44425,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -44339,7 +44556,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -44421,7 +44639,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -44578,7 +44797,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -44708,7 +44928,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -44790,7 +45011,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -44958,7 +45180,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -45088,7 +45311,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -45170,7 +45394,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -45295,7 +45520,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -45425,7 +45651,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -45507,7 +45734,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -45612,7 +45840,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -45742,7 +45971,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -45824,7 +46054,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -45957,7 +46188,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -46039,7 +46271,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -64048,7 +64281,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -64696,7 +64930,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -64826,7 +65061,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -64908,7 +65144,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -66054,7 +66291,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -66761,7 +66999,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -66891,7 +67130,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -66973,7 +67213,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -67218,7 +67459,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -67348,7 +67590,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -67430,7 +67673,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -67571,7 +67815,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -67653,7 +67898,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -69183,7 +69429,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -70185,7 +70432,8 @@
                                 "elevenlabs",
                                 "huggingface",
                                 "nebius",
-                                "xai"
+                                "xai",
+                                "sapaicore"
                               ]
                             },
                             "model_requested": {
@@ -70910,7 +71158,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -71040,7 +71289,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -71122,7 +71372,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -71909,7 +72160,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -72039,7 +72291,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -72121,7 +72374,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -72284,7 +72538,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -72414,7 +72669,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -72496,7 +72752,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -72755,7 +73012,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -72920,7 +73178,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -73050,7 +73309,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -73132,7 +73392,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -82229,7 +82490,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -82877,7 +83139,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -83007,7 +83270,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -83089,7 +83353,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -84235,7 +84500,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -84942,7 +85208,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -85072,7 +85339,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -85154,7 +85422,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -85399,7 +85668,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -85529,7 +85799,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -85611,7 +85882,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -85752,7 +86024,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -85834,7 +86107,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -87364,7 +87638,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -88366,7 +88641,8 @@
                                 "elevenlabs",
                                 "huggingface",
                                 "nebius",
-                                "xai"
+                                "xai",
+                                "sapaicore"
                               ]
                             },
                             "model_requested": {
@@ -89091,7 +89367,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -89221,7 +89498,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -89303,7 +89581,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -90090,7 +90369,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -90220,7 +90500,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -90302,7 +90583,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -90465,7 +90747,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -90595,7 +90878,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -90677,7 +90961,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -90936,7 +91221,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -91101,7 +91387,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -91231,7 +91518,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -91313,7 +91601,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -101033,7 +101322,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -101681,7 +101971,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -101811,7 +102102,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -101893,7 +102185,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -103039,7 +103332,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -103746,7 +104040,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -103876,7 +104171,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -103958,7 +104254,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -104203,7 +104500,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -104333,7 +104631,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -104415,7 +104714,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -104556,7 +104856,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -104638,7 +104939,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -106168,7 +106470,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -107170,7 +107473,8 @@
                                 "elevenlabs",
                                 "huggingface",
                                 "nebius",
-                                "xai"
+                                "xai",
+                                "sapaicore"
                               ]
                             },
                             "model_requested": {
@@ -107895,7 +108199,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -108025,7 +108330,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -108107,7 +108413,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -108894,7 +109201,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -109024,7 +109332,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -109106,7 +109415,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -109269,7 +109579,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -109399,7 +109710,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -109481,7 +109793,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -109740,7 +110053,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -109905,7 +110219,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -110035,7 +110350,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -110117,7 +110433,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -118603,7 +118920,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -118918,7 +119236,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -119172,7 +119491,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -119254,7 +119574,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -119424,7 +119745,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -119506,7 +119828,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -119671,7 +119994,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -119753,7 +120077,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -119868,7 +120193,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -119950,7 +120276,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -120088,7 +120415,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -120170,7 +120498,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -120252,7 +120581,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -120334,7 +120664,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -120445,7 +120776,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -120558,7 +120890,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -120623,7 +120956,8 @@
                               "elevenlabs",
                               "huggingface",
                               "nebius",
-                              "xai"
+                              "xai",
+                              "sapaicore"
                             ]
                           },
                           "keys": {
@@ -121074,7 +121408,8 @@
                                   "elevenlabs",
                                   "huggingface",
                                   "nebius",
-                                  "xai"
+                                  "xai",
+                                  "sapaicore"
                                 ]
                               },
                               "allowed_requests": {
@@ -121256,7 +121591,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -121315,7 +121651,8 @@
                       "elevenlabs",
                       "huggingface",
                       "nebius",
-                      "xai"
+                      "xai",
+                      "sapaicore"
                     ]
                   },
                   "keys": {
@@ -121766,7 +122103,8 @@
                           "elevenlabs",
                           "huggingface",
                           "nebius",
-                          "xai"
+                          "xai",
+                          "sapaicore"
                         ]
                       },
                       "allowed_requests": {
@@ -121895,7 +122233,8 @@
                         "elevenlabs",
                         "huggingface",
                         "nebius",
-                        "xai"
+                        "xai",
+                        "sapaicore"
                       ]
                     },
                     "keys": {
@@ -122346,7 +122685,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "allowed_requests": {
@@ -122522,7 +122862,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -122604,7 +122945,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -122686,7 +123028,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -122756,7 +123099,8 @@
                         "elevenlabs",
                         "huggingface",
                         "nebius",
-                        "xai"
+                        "xai",
+                        "sapaicore"
                       ]
                     },
                     "keys": {
@@ -123207,7 +123551,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "allowed_requests": {
@@ -123383,7 +123728,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -123465,7 +123811,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -123547,7 +123894,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -124039,7 +124387,8 @@
                           "elevenlabs",
                           "huggingface",
                           "nebius",
-                          "xai"
+                          "xai",
+                          "sapaicore"
                         ]
                       },
                       "allowed_requests": {
@@ -124168,7 +124517,8 @@
                         "elevenlabs",
                         "huggingface",
                         "nebius",
-                        "xai"
+                        "xai",
+                        "sapaicore"
                       ]
                     },
                     "keys": {
@@ -124619,7 +124969,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "allowed_requests": {
@@ -124795,7 +125146,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -124877,7 +125229,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -124945,7 +125298,8 @@
                         "elevenlabs",
                         "huggingface",
                         "nebius",
-                        "xai"
+                        "xai",
+                        "sapaicore"
                       ]
                     },
                     "keys": {
@@ -125396,7 +125750,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "allowed_requests": {
@@ -125572,7 +125927,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -125654,7 +126010,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -125736,7 +126093,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -126173,7 +126531,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -126339,7 +126698,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -126571,7 +126931,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -126827,7 +127188,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -126909,7 +127271,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -126991,7 +127354,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -127222,7 +127586,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -127304,7 +127669,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -127386,7 +127752,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -127647,7 +128014,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -127729,7 +128097,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -127811,7 +128180,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -127930,7 +128300,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -128012,7 +128383,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -128094,7 +128466,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -128790,7 +129163,7 @@
                       "name": "get_weather",
                       "role": "tool",
                       "tool_call_id": "call_123",
-                      "content": "The weather in San Francisco is 72°F and sunny."
+                      "content": "The weather in San Francisco is 72\u00b0F and sunny."
                     }
                   },
                   "responses": {
@@ -128803,7 +129176,7 @@
                       "call_id": "call_123",
                       "name": "get_weather",
                       "arguments": "{\"location\": \"San Francisco\"}",
-                      "content": "The weather in San Francisco is 72°F and sunny."
+                      "content": "The weather in San Francisco is 72\u00b0F and sunny."
                     }
                   }
                 }
@@ -128876,7 +129249,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -128958,7 +129332,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -129197,7 +129572,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -129724,7 +130100,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -129806,7 +130183,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -130037,7 +130415,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -130119,7 +130498,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -130243,7 +130623,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -130325,7 +130706,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -130451,7 +130833,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -130533,7 +130916,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -130760,7 +131144,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -130842,7 +131227,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -130966,7 +131352,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -131549,7 +131936,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -132262,7 +132650,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -132344,7 +132733,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -132929,7 +133319,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -133011,7 +133402,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -133730,7 +134122,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -133812,7 +134205,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -133894,7 +134288,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -134013,7 +134408,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -134095,7 +134491,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -135297,7 +135694,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -136513,7 +136911,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -136595,7 +136994,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -137791,7 +138191,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -137873,7 +138274,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -139093,7 +139495,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -139175,7 +139578,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -139257,7 +139661,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -139376,7 +139781,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -139458,7 +139864,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -140112,7 +140519,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -140785,7 +141193,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -140867,7 +141276,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -142590,7 +143000,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -142672,7 +143083,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -143349,7 +143761,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -143431,7 +143844,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -143513,7 +143927,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -143632,7 +144047,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -143714,7 +144130,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -143874,7 +144291,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -144051,7 +144469,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -144296,7 +144715,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -144631,7 +145051,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -144713,7 +145134,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -144943,7 +145365,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -145025,7 +145448,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -145303,7 +145727,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -145385,7 +145810,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -145467,7 +145893,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -145586,7 +146013,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -145668,7 +146096,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -145899,7 +146328,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -146184,7 +146614,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -146266,7 +146697,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -146500,7 +146932,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -146582,7 +147015,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -146871,7 +147305,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -146953,7 +147388,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -147035,7 +147471,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -147154,7 +147591,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -147236,7 +147674,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -147449,7 +147888,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -147705,7 +148145,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -147787,7 +148228,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -147869,7 +148311,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -147988,7 +148431,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -148070,7 +148514,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -148532,7 +148977,8 @@
                                       "elevenlabs",
                                       "huggingface",
                                       "nebius",
-                                      "xai"
+                                      "xai",
+                                      "sapaicore"
                                     ]
                                   },
                                   "model_requested": {
@@ -149899,7 +150345,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -149981,7 +150428,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -150111,7 +150559,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -150193,7 +150642,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -150463,7 +150913,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -150545,7 +150996,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -151609,7 +152061,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -151832,7 +152285,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -151914,7 +152368,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -152036,7 +152491,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -152118,7 +152574,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -152240,7 +152697,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -152322,7 +152780,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
@@ -152410,7 +152869,8 @@
                         "elevenlabs",
                         "huggingface",
                         "nebius",
-                        "xai"
+                        "xai",
+                        "sapaicore"
                       ]
                     },
                     "model_requested": {
@@ -152492,7 +152952,8 @@
                         "elevenlabs",
                         "huggingface",
                         "nebius",
-                        "xai"
+                        "xai",
+                        "sapaicore"
                       ]
                     },
                     "model_requested": {
@@ -152533,7 +152994,8 @@
           "elevenlabs",
           "huggingface",
           "nebius",
-          "xai"
+          "xai",
+          "sapaicore"
         ]
       },
       "Fallback": {
@@ -152567,7 +153029,8 @@
               "elevenlabs",
               "huggingface",
               "nebius",
-              "xai"
+              "xai",
+              "sapaicore"
             ]
           },
           "model": {
@@ -152638,7 +153101,8 @@
                   "elevenlabs",
                   "huggingface",
                   "nebius",
-                  "xai"
+                  "xai",
+                  "sapaicore"
                 ]
               },
               "model_requested": {
@@ -152697,7 +153161,8 @@
               "elevenlabs",
               "huggingface",
               "nebius",
-              "xai"
+              "xai",
+              "sapaicore"
             ]
           },
           "model_requested": {
@@ -152739,7 +153204,8 @@
               "elevenlabs",
               "huggingface",
               "nebius",
-              "xai"
+              "xai",
+              "sapaicore"
             ]
           },
           "model_requested": {
@@ -153175,7 +153641,8 @@
                   "elevenlabs",
                   "huggingface",
                   "nebius",
-                  "xai"
+                  "xai",
+                  "sapaicore"
                 ]
               },
               "model_requested": {
@@ -154551,7 +155018,8 @@
                   "elevenlabs",
                   "huggingface",
                   "nebius",
-                  "xai"
+                  "xai",
+                  "sapaicore"
                 ]
               },
               "model_requested": {
@@ -155631,7 +156099,8 @@
                   "elevenlabs",
                   "huggingface",
                   "nebius",
-                  "xai"
+                  "xai",
+                  "sapaicore"
                 ]
               },
               "model_requested": {
@@ -157209,7 +157678,8 @@
                   "elevenlabs",
                   "huggingface",
                   "nebius",
-                  "xai"
+                  "xai",
+                  "sapaicore"
                 ]
               },
               "model_requested": {
@@ -157542,7 +158012,8 @@
                   "elevenlabs",
                   "huggingface",
                   "nebius",
-                  "xai"
+                  "xai",
+                  "sapaicore"
                 ]
               },
               "model_requested": {
@@ -157809,7 +158280,8 @@
                   "elevenlabs",
                   "huggingface",
                   "nebius",
-                  "xai"
+                  "xai",
+                  "sapaicore"
                 ]
               },
               "model_requested": {
@@ -158075,7 +158547,8 @@
                   "elevenlabs",
                   "huggingface",
                   "nebius",
-                  "xai"
+                  "xai",
+                  "sapaicore"
                 ]
               },
               "model_requested": {
@@ -158701,7 +159174,8 @@
                   "elevenlabs",
                   "huggingface",
                   "nebius",
-                  "xai"
+                  "xai",
+                  "sapaicore"
                 ]
               },
               "model_requested": {
@@ -158943,7 +159417,8 @@
                   "elevenlabs",
                   "huggingface",
                   "nebius",
-                  "xai"
+                  "xai",
+                  "sapaicore"
                 ]
               },
               "model_requested": {
@@ -159196,7 +159671,8 @@
                         "elevenlabs",
                         "huggingface",
                         "nebius",
-                        "xai"
+                        "xai",
+                        "sapaicore"
                       ]
                     },
                     "model_requested": {
@@ -159301,7 +159777,8 @@
                   "elevenlabs",
                   "huggingface",
                   "nebius",
-                  "xai"
+                  "xai",
+                  "sapaicore"
                 ]
               },
               "model_requested": {
@@ -159546,7 +160023,8 @@
                   "elevenlabs",
                   "huggingface",
                   "nebius",
-                  "xai"
+                  "xai",
+                  "sapaicore"
                 ]
               },
               "model_requested": {
@@ -159654,7 +160132,8 @@
               "elevenlabs",
               "huggingface",
               "nebius",
-              "xai"
+              "xai",
+              "sapaicore"
             ]
           }
         }
@@ -159746,7 +160225,8 @@
                   "elevenlabs",
                   "huggingface",
                   "nebius",
-                  "xai"
+                  "xai",
+                  "sapaicore"
                 ]
               },
               "model_requested": {
@@ -159905,7 +160385,8 @@
                   "elevenlabs",
                   "huggingface",
                   "nebius",
-                  "xai"
+                  "xai",
+                  "sapaicore"
                 ]
               },
               "model_requested": {
@@ -167683,7 +168164,8 @@
                   "elevenlabs",
                   "huggingface",
                   "nebius",
-                  "xai"
+                  "xai",
+                  "sapaicore"
                 ]
               },
               "model_requested": {
@@ -168126,7 +168608,8 @@
               "elevenlabs",
               "huggingface",
               "nebius",
-              "xai"
+              "xai",
+              "sapaicore"
             ]
           },
           "keys": {
@@ -168577,7 +169060,8 @@
                   "elevenlabs",
                   "huggingface",
                   "nebius",
-                  "xai"
+                  "xai",
+                  "sapaicore"
                 ]
               },
               "allowed_requests": {
@@ -168717,7 +169201,8 @@
                     "elevenlabs",
                     "huggingface",
                     "nebius",
-                    "xai"
+                    "xai",
+                    "sapaicore"
                   ]
                 },
                 "keys": {
@@ -169168,7 +169653,8 @@
                         "elevenlabs",
                         "huggingface",
                         "nebius",
-                        "xai"
+                        "xai",
+                        "sapaicore"
                       ]
                     },
                     "allowed_requests": {
@@ -169311,7 +169797,8 @@
               "elevenlabs",
               "huggingface",
               "nebius",
-              "xai"
+              "xai",
+              "sapaicore"
             ]
           },
           "keys": {
@@ -169762,7 +170249,8 @@
                   "elevenlabs",
                   "huggingface",
                   "nebius",
-                  "xai"
+                  "xai",
+                  "sapaicore"
                 ]
               },
               "allowed_requests": {
@@ -170308,7 +170796,8 @@
                   "elevenlabs",
                   "huggingface",
                   "nebius",
-                  "xai"
+                  "xai",
+                  "sapaicore"
                 ]
               },
               "allowed_requests": {
@@ -181768,7 +182257,8 @@
                       "elevenlabs",
                       "huggingface",
                       "nebius",
-                      "xai"
+                      "xai",
+                      "sapaicore"
                     ]
                   },
                   "model_requested": {
@@ -183289,7 +183779,8 @@
                             "elevenlabs",
                             "huggingface",
                             "nebius",
-                            "xai"
+                            "xai",
+                            "sapaicore"
                           ]
                         },
                         "model_requested": {
