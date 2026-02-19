@@ -505,15 +505,6 @@ func (h *ProviderHandler) deleteProvider(ctx *fasthttp.RequestCtx) {
 		return
 	}
 
-	// Remove provider from store
-	if err := h.inMemoryStore.RemoveProvider(ctx, provider); err != nil {
-		logger.Warn("Failed to remove provider %s: %v", provider, err)
-		SendError(ctx, fasthttp.StatusInternalServerError, fmt.Sprintf("Failed to remove provider: %v", err))
-		return
-	}
-
-	logger.Info(fmt.Sprintf("Provider %s removed successfully", provider))
-
 	if err := h.modelsManager.RemoveProvider(ctx, provider); err != nil {
 		logger.Warn("Failed to delete models for provider %s: %v", provider, err)
 	}
