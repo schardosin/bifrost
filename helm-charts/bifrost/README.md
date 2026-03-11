@@ -4,9 +4,41 @@
 
 Official Helm charts for deploying [Bifrost](https://github.com/maximhq/bifrost) - a high-performance AI gateway with unified interface for multiple providers.
 
-**Latest Version:** 2.0.8
+**Latest Version:** 2.0.13
 
 ## Changelog
+
+### v2.0.13
+
+- Added missing client config properties: `asyncJobResultTTL`, `requiredHeaders`, `loggingHeaders`, `allowedHeaders`, `mcpAgentDepth`, `mcpToolExecutionTimeout`, `mcpCodeModeBindingLevel`, `mcpToolSyncInterval`, `hideDeletedVirtualKeysInFilters`
+- Added MCP new fields: top-level `toolSyncInterval`, per-client `clientId`, `isCodeModeClient`, `toolSyncInterval`, `isPingAvailable`, `toolPricing`, and `codeModeBindingLevel` in tool manager config
+- Added governance `modelConfigs` and `providers` top-level properties
+- Added cluster `region` property
+- Added guardrail provider `timeout` field (was missing from schema and template rendering)
+- Fixed `isPingAvailable` rendering bug in `_helpers.tpl` (was using wrong key name)
+- Added `is_ping_available` and `tool_pricing` to `config.schema.json` MCP client config
+- Added new CI script `validate-go-config-fields.sh` for Go struct-to-schema drift detection
+- Expanded all 3 existing CI validation scripts with Gap 1-8 property coverage
+
+### v2.0.12
+
+- Fixed health probe paths to use `/health` instead of `/metrics`
+
+### v2.0.11
+
+- Bumped appVersion to 1.4.11
+
+### v2.0.10
+
+- Added missing plugin config properties from Go implementations:
+  - governance: `required_headers`, `is_enterprise`
+  - logging: `disable_content_logging`, `logging_headers`
+  - otel: `headers`, `tls_ca_cert`, `insecure`
+  - telemetry: `custom_labels`
+
+### v2.0.9
+
+- Bumped appVersion to 1.4.8
 
 ### v2.0.8
 
